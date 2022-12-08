@@ -1,0 +1,74 @@
+.foot {
+    &_head {
+    }
+    
+    &_btn-apl {
+        background-color: $lightgrey;
+        background-image: url(./../../img/apple.svg);
+        background-position: left;
+        background-repeat: no-repeat;
+        background-size: contain;
+    }
+    
+    &_btn-app {
+    }
+    
+    &_wrap-link {
+    }
+    
+    &__container {
+        display: flex;
+        flex-wrap: wrap;
+
+    }
+    
+    &__wrapper {
+        width: 100%;
+        background-color: #495567;
+    }
+    &__wrapper1 {
+        width: 100%;
+        background-color: #333A44;
+    }
+    
+    &__wrap-top {
+    }
+
+    &__btn {
+    }
+
+    &__btn-top {
+    }
+
+    &__btn-head {
+    }
+
+    &__wrap-bott {
+    }
+
+    &__logo {
+    }
+
+    &__logo-img {
+    }
+
+    &__wrap-left {
+    }
+
+    &__wrap-list {
+    }
+
+    &__wrap-item {
+    }
+
+    &__wrap-list1 {
+    }
+
+    &__wrap-item1 {
+    }
+
+    &__wrap-img {
+    }
+}
+.container {
+}
